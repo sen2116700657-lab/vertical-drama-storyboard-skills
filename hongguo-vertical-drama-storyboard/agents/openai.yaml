@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hongguo Vertical Drama Storyboard"
+  short_description: "Create continuous 9:16 Hongguo-style live-action shot lists"
+  default_prompt: "Use $hongguo-vertical-drama-storyboard to convert this script into a production-ready 9:16 live-action Hongguo-style shot list."
