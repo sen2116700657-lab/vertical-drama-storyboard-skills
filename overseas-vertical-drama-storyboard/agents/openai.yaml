@@ -1,0 +1,4 @@
+interface:
+  display_name: "Overseas Vertical Drama Storyboard"
+  short_description: "Create continuous 9:16 overseas live-action shot lists"
+  default_prompt: "Use $overseas-vertical-drama-storyboard to convert this script into a production-ready 9:16 live-action shot list."
